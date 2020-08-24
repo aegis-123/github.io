@@ -35,3 +35,7 @@ p:hover{
 .flex-container p{
 
 }
+@media (max-width: 670px){
+h1{
+  color: blue;
+}
